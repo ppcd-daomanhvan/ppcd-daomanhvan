@@ -39,4 +39,4 @@ I work through making things work, building trust and catalyzing discussions. Gr
 - Please use sentences that are short, simple and direct to the point. As mentioned earlier, English is not my native language, so I would like to avoid any misunderstanding while communicating.
 
 ## More ways to get in touch
-Maybe you just file an issue on this repository is enough for first step. We can exchange the info for deeper discussion if things go further.
+- Ping me on Slack or any communication channel that I'm on.
