@@ -8,10 +8,9 @@ In previous decade, I had worked as a backend engineer in (mostly) Japanese comp
 This page describes the most efficient ways to work with me. Please feel free to contribute to it by opening a pull request.
 
 ## Values
-I moved into backend because I care that things submitted from clients can be verified, modified and worked here. That means I have to understand the business logics, also the big picture of the whole system.
+I moved into backend because I care that things submitted from clients can be verified, modified and worked here. That means I have to understand the business logics, and the big picture of the whole system as well.
 
 I value openness, ownership, and trust, and I will give you mine.
-
 - For openness, I value and welcome diversity of thought, and not all ideas need to be good ones either. We're still all better off discussing them than not.
 - For ownership, I believe that ownership makes us to think about the work carefully, and take the quick action without hesitance.
 - For trust, I believe that only trust can makes us work together in long time. The relationship bases on trust are very solid, and it demands both to believe in each others.
@@ -31,7 +30,6 @@ I'm a fan! Schedule a coffee meeting so we can understand each other better. All
 
 ## My working style
 I work through making things work, building trust and catalyzing discussions. Grab me for backup, if need be, so:
-
 - Talk to me about technology. While most of the engineering should be done by engineers, I very much enjoy discussing technical issues. I have seen various design patterns work or fail in interesting ways (and on large scale) over the years, and I'm happy to learn something and/or share what I know.
   - Corollary: I will sometimes offer ideas or seem to nitpick while you know better. If you got this and want me to step back, please let me know, no offense will be taken.
 - Feel free to book any empty slot on my calendar if you have anything to discuss. Please share me the context or documents for the meeting in advance if things are complicated.
