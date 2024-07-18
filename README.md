@@ -37,6 +37,8 @@ I work through making things work, building trust and catalyzing discussions. Gr
 - Feel free to book any empty slot on my calendar if you have anything to discuss. Please share me the context or documents for the meeting in advance if things are complicated.
 - Feel free to ping me (both DM or mentioning in any channel) for quick discuss, or anything you think it no needs to have a meeting.
 - Please use sentences that are short, simple and direct to the point. As mentioned earlier, English is not my native language, so I would like to avoid any misunderstanding while communicating.
+- In particular, I usually work from 8:30 +- 30mins to 17:30 +-30mins JST, so feel free to ping me in this time window. Otherwise, it may take some time for me to response you.
 
 ## More ways to get in touch
-- Ping me on Slack or any communication channel that I'm on.
+- Feel free to ping me on Slack or any communication channel that I'm on.
+- or just drop a message at `#times_dao` channel on Slack. I will get back to you ASAP.
