@@ -10,10 +10,10 @@ This page describes the most efficient ways to work with me. Please feel free to
 ## Values
 I moved into backend because I care that things submitted from clients can be verified, modified and worked here. That means I have to understand the business logics, and the big picture of the whole system as well.
 
-I value openness, ownership, and trust, and I will give you mine.
-- For openness, I value and welcome diversity of thought, and not all ideas need to be good ones either. We're still all better off discussing them than not.
-- For ownership, I believe that ownership makes us to think about the work carefully, and take the quick action without hesitance.
-- For trust, I believe that only trust can makes us work together in long time. The relationship bases on trust are very solid, and it demands both to believe in each others.
+I value _openness_, _ownership_, and _trust_, and I will give you mine.
+- For _openness_, I value and welcome _diversity of thought_, and not all ideas need to be good ones either. We're still all better off discussing them than not.
+- For _ownership_, I believe that ownership makes us to think about the work carefully, and take the quick action without hesitance.
+- For _trust_, I believe that only trust can makes us work together in long time. The relationship bases on trust are very solid, and it demands both to believe in each others.
 
 ## My communication style
 I'm striving for honest yet caring discussions and I expect the same in return. English is my second language, and we may have more cultural barriers than we know; I will not take offense from open feedback, but I might miss subtle cues.
