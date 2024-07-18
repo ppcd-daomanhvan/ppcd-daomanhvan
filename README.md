@@ -1,9 +1,9 @@
 Inspired by https://handbook.gitlab.com/handbook/engineering/readmes/andras-horvath/, customized for myself (a backend engineer).
 
 ## Dao Van Manh's README
-Hi, I'm Dao Van "Dao" Manh. Please call me "Dao" for short. I'm living at Tokyo, Japan.
+Hi, I'm Dao Van Manh. Please call me "Dao" for short. I'm living at Tokyo, Japan.
 
-In previous decade, I had worked as a backend engineer (mostly) Japanese companies, where I focused on Fintech domain, especially payment systems. I have a passion for creating clean architectures and making things work (then making people happy).
+In previous decade, I had worked as a backend engineer in (mostly) Japanese companies, where I focused on Fintech domain, especially payment systems. I have a passion for creating clean architectures and making things work (then making people happy).
 
 This page describes the most efficient ways to work with me. Please feel free to contribute to it by opening a pull request.
 
