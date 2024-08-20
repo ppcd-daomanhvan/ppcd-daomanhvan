@@ -26,7 +26,7 @@ I won't know what you don't tell me about. But please also include why you wante
 I still care, I just need my notes. Please remind me if I forgot a detail :-/
 
 ### Informal coffee chats
-I'm a fan! Schedule a coffee meeting so we can understand each other better. All free slots in my calendar are fair game. I also welcome meeting in person.
+Dont hesitate to schedule a coffee meeting so we can understand each other better. All free slots in my calendar are fair game. I also welcome meeting in person.
 
 ## My working style
 I work through making things work, building trust and catalyzing discussions. Grab me for backup, if need be, so:
